@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P02_APII_PS</string>
+    <array name="arrayitems">
+        <item>Secular</item>
+        <item>Ethnic and Religion</item>
+    </array>
+</resources>
